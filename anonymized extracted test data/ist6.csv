@@ -1,0 +1,24 @@
+Check between points1,Check between points2,Measured Values,Expected Values (*),Successful
+pin1,pin2,418Ω,> 100 Ω,OK
+pin1,pin2,448Ω,> 100 Ω,OK
+pin1,pin2,526Ω,> 100 Ω,OK
+pin1,pin2,556Ω,> 100 Ω,OK
+pin1,pin2,309kΩ,> 100 Ω,OK
+pin1,pin2,699kΩ,> 100 Ω,OK
+pin1,pin2,948Ω,> 100 Ω,OK
+pin1,pin2,888Ω,> 100 Ω,OK
+pin1,pin2,528Ω,> 100 Ω,OK
+pin1,pin2,598Ω,> 100 Ω,OK
+pin1,pin2,35kΩ,> 100 Ω,OK
+pin1,pin2,17.9KΩ,> 100 Ω,OK
+pin1,pin2,19.9KΩ,> 100 Ω,OK
+pin1,pin2,1.2MΩ,> 100 Ω,OK
+pin1,pin2,923Ω,> 100 Ω,OK
+pin1,pin2,423Ω,> 200 Ω,OK
+pin1,pin2,1.98MΩ,> 100 Ω,OK
+pin1,pin2,734Ω,> 100 Ω,OK
+pin1,pin2,704Ω,> 100 Ω,OK
+pin1,pin2,873Ω,> 100 Ω,OK
+pin1,pin2,873Ω,> 200 Ω,OK
+pin1,pin2,N.M.,> 100 Ω,N.A.
+pin1,pin2,N.M.,> 200 Ω,N.A.

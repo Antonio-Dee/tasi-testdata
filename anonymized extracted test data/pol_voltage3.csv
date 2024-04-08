@@ -1,0 +1,11 @@
+V Cores,Voltage Measurements,Acceptance limits,Successful
+core,1.197V,"[1.176, 1.224] V",OK
+core,1.508V,"[1.470, 1.530] V",OK
+core,1.801V,"[1.564, 1.836] V",OK
+core,2.506V,"[2.400, 2.600] V",OK
+core,2.505V,"[2.400, 2.600] V",OK
+core,1.803V,"[1.728, 1.872] V",OK
+core,5.016V,"[4.700, 5.100] V",OK
+core,15.40V,"[15.90, 16.00] V",OK
+core,3.368V,"[3.108, 3.432] V",OK
+core,3.374V,"[3.168, 3.432] V",OK
