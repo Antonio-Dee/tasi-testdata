@@ -3,7 +3,8 @@
 This repository contains the dataset and the code used to benchmark the LLMs in the paper:
 
 > Antonio De Santis, Marco Balduini, Federico De Santis, Andrea Proia, Arsenio Leo, Marco Brambilla, and Emanuele Della Valle.
-> **Integrating Large Language Models and Knowledge Graphs for Extraction and Validation of Textual Test Data**. Submitted to ISWC 2024 - In-Use Track.
+> **Integrating Large Language Models and Knowledge Graphs for Extraction and Validation of Textual Test Data**. ISWC 2024 - In-Use Track.
+> https://doi.org/10.1007/978-3-031-77847-6_17
 
 In this paper, we propose a hybrid methodology that leverages Knowledge Graphs (KGs) in conjunction with Large Language Models (LLMs) to extract and validate data contained in these documents. 
 We consider a case study focused on Test Data related to electronic boards used in Thales Alenia Space's satellites. Since Thales Alenia Space has strict rules that protect its data privacy, the Test Data, is not disclosed in its original form. 
